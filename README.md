@@ -144,3 +144,8 @@ cd game-day-notifications
 1. Add NFL score alerts for extended functionality.
 2. Store user preferences (teams, game types) in DynamoDB for personalized alerts.
 3. Implement a web UI
+
+
+
+Credit goes to the creators of this repo:
+Ifeanyi Otuonye, Alicia Ahl,  Kathryn (Kat) Jones, DeShae Lyda
